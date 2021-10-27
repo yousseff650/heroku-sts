@@ -12,6 +12,11 @@ import lombok.NoArgsConstructor;
 
 
 @Entity	
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 915557591b078824cca11a190887097fa8a512a6
 
 public class Compte {
 

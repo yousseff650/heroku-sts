@@ -18,6 +18,7 @@
 	<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 	
 		<java.version>1.8</java.version>
+		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -67,7 +68,10 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.19.1</version>
 			</plugin>
+<<<<<<< HEAD
 			
+=======
+>>>>>>> 915557591b078824cca11a190887097fa8a512a6
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
